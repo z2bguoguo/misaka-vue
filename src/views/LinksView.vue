@@ -67,8 +67,8 @@ const data = [
     link: 'https://gskmail.lapis-net.top',
   },
   {
-    name: '轻音少女图集站',
-    desc: '注意：请确保你的网络能够连接ipv6站点',
+    name: '轻音图网',
+    desc: '轻音图网 | 专注分享收藏级的轻音少女图片。注意：请确保你的网络能够连接ipv6站点',
     link: 'https://kon.shamiko.site/',
   },
 
