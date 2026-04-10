@@ -51,8 +51,12 @@
       <p>你的位置：主城</p>
     </div>
     <div class="site-record site-record--main" v-else>
-      <p>陌生的域名……</p>
-      <p>你多半在开发服务器里（</p>
+      <div style="text-align: center;">
+      <a href="https://beian.miit.gov.cn/" target="_blank" >鲁ICP备2025183361号-1</a>
+      <br>
+      <img src='https://www.z2bguoguo.cn/wp-content/uploads/2025/09/备案图标.png' width=20>
+      <a href="https://beian.mps.gov.cn/#/query/webSearch?code=37030302001118" rel="noreferrer" target="_blank">鲁公网安备37030302001118号</a>
+      </div>
     </div>
   </footer>
 </template>
